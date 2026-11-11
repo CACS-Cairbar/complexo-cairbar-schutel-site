@@ -553,6 +553,8 @@ section {
 .badges {
     margin-top: 30px;
     display: flex;
+    flex-wrap: wrap;
+    align-items: center;
     gap: 20px;
 }
 
